@@ -60,3 +60,15 @@
   filter: contrast(.5);
   background-size: 100% 100%;
 }
+
+.stack-input {
+  max-width: 100px;
+  background-color: #16171b;
+  color: white;
+  border-color: #16171b;
+  text-align: right;
+}
+
+.width-60 {
+  min-width: 60px;
+}
